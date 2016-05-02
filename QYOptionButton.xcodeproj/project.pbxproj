@@ -14,8 +14,13 @@
 		521C7A091CD5E75A00B54D43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521C7A071CD5E75A00B54D43 /* LaunchScreen.storyboard */; };
 		521C7A141CD5E75A00B54D43 /* QYOptionButtonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521C7A131CD5E75A00B54D43 /* QYOptionButtonTests.swift */; };
 		521C7A1F1CD5E75A00B54D43 /* QYOptionButtonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521C7A1E1CD5E75A00B54D43 /* QYOptionButtonUITests.swift */; };
-		52AB85231CD5E9DE00F36BEF /* QYOptionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AB85211CD5E9DE00F36BEF /* QYOptionButton.swift */; };
-		52AB85241CD5E9DE00F36BEF /* QYOptionItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AB85221CD5E9DE00F36BEF /* QYOptionItem.swift */; };
+		525D8C311CD72F7A000E2F59 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525D8C301CD72F7A000E2F59 /* ViewController1.swift */; };
+		525D8C331CD72F83000E2F59 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525D8C321CD72F83000E2F59 /* ViewController2.swift */; };
+		525D8C351CD72F8C000E2F59 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525D8C341CD72F8C000E2F59 /* ViewController3.swift */; };
+		525D8C371CD72F9B000E2F59 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525D8C361CD72F9B000E2F59 /* ViewController4.swift */; };
+		525D8C391CD72FA3000E2F59 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525D8C381CD72FA3000E2F59 /* ViewController5.swift */; };
+		525D8C3C1CD737E3000E2F59 /* QYOptionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525D8C3A1CD737E3000E2F59 /* QYOptionButton.swift */; };
+		525D8C3D1CD737E3000E2F59 /* QYOptionItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525D8C3B1CD737E3000E2F59 /* QYOptionItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,8 +54,13 @@
 		521C7A1A1CD5E75A00B54D43 /* QYOptionButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QYOptionButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		521C7A1E1CD5E75A00B54D43 /* QYOptionButtonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QYOptionButtonUITests.swift; sourceTree = "<group>"; };
 		521C7A201CD5E75A00B54D43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		52AB85211CD5E9DE00F36BEF /* QYOptionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QYOptionButton.swift; sourceTree = "<group>"; };
-		52AB85221CD5E9DE00F36BEF /* QYOptionItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QYOptionItem.swift; sourceTree = "<group>"; };
+		525D8C301CD72F7A000E2F59 /* ViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
+		525D8C321CD72F83000E2F59 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		525D8C341CD72F8C000E2F59 /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		525D8C361CD72F9B000E2F59 /* ViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		525D8C381CD72FA3000E2F59 /* ViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		525D8C3A1CD737E3000E2F59 /* QYOptionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QYOptionButton.swift; sourceTree = "<group>"; };
+		525D8C3B1CD737E3000E2F59 /* QYOptionItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QYOptionItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +114,11 @@
 				52AB85201CD5E9DE00F36BEF /* QYOptionButton */,
 				521C79FE1CD5E75A00B54D43 /* AppDelegate.swift */,
 				521C7A001CD5E75A00B54D43 /* ViewController.swift */,
+				525D8C301CD72F7A000E2F59 /* ViewController1.swift */,
+				525D8C321CD72F83000E2F59 /* ViewController2.swift */,
+				525D8C341CD72F8C000E2F59 /* ViewController3.swift */,
+				525D8C361CD72F9B000E2F59 /* ViewController4.swift */,
+				525D8C381CD72FA3000E2F59 /* ViewController5.swift */,
 				521C7A021CD5E75A00B54D43 /* Main.storyboard */,
 				521C7A051CD5E75A00B54D43 /* Assets.xcassets */,
 				521C7A071CD5E75A00B54D43 /* LaunchScreen.storyboard */,
@@ -133,8 +148,8 @@
 		52AB85201CD5E9DE00F36BEF /* QYOptionButton */ = {
 			isa = PBXGroup;
 			children = (
-				52AB85211CD5E9DE00F36BEF /* QYOptionButton.swift */,
-				52AB85221CD5E9DE00F36BEF /* QYOptionItem.swift */,
+				525D8C3A1CD737E3000E2F59 /* QYOptionButton.swift */,
+				525D8C3B1CD737E3000E2F59 /* QYOptionItem.swift */,
 			);
 			path = QYOptionButton;
 			sourceTree = "<group>";
@@ -270,10 +285,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52AB85231CD5E9DE00F36BEF /* QYOptionButton.swift in Sources */,
+				525D8C311CD72F7A000E2F59 /* ViewController1.swift in Sources */,
 				521C7A011CD5E75A00B54D43 /* ViewController.swift in Sources */,
+				525D8C371CD72F9B000E2F59 /* ViewController4.swift in Sources */,
+				525D8C391CD72FA3000E2F59 /* ViewController5.swift in Sources */,
 				521C79FF1CD5E75A00B54D43 /* AppDelegate.swift in Sources */,
-				52AB85241CD5E9DE00F36BEF /* QYOptionItem.swift in Sources */,
+				525D8C351CD72F8C000E2F59 /* ViewController3.swift in Sources */,
+				525D8C3C1CD737E3000E2F59 /* QYOptionButton.swift in Sources */,
+				525D8C3D1CD737E3000E2F59 /* QYOptionItem.swift in Sources */,
+				525D8C331CD72F83000E2F59 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
